@@ -12,3 +12,6 @@ One grid cell is marked as the initial location (in blue), and another cell is m
 Only four actions are allowed in this problem: move left by 1, move right by 1, move up by 1, and move down by 1.  No diagonal movements are allowed.
 
 You program should find a solution, which is a sequence of grid locations that leads to the goal location.
+
+
+The provided pngs shows examples of this project in action.
